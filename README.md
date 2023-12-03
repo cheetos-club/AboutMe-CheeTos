@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   <strong>CheeTōs</strong>
-</p>
+</h1>
 
 <p align="center">
   <strong>Simple aboutme web.</strong>
