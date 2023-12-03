@@ -1,5 +1,5 @@
 <h1 align="center">
-  <strong>**CheeTōs**</strong>
+  <strong>CheeTōs</strong>
 </h1>
 
 <p align="center">
